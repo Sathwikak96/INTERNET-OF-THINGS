@@ -5,3 +5,5 @@
 3.   https://wokwi.com/projects/333802921425633876  (GRB TRAFFIC LED)
 
 4.   https://wokwi.com/projects/333804671527289428  (RGB LED)
+
+5.    https://wokwi.com/projects/new/arduino-uno    (servomotor clock type)
