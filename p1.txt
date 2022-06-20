@@ -8,3 +8,5 @@
 
 5.    https://wokwi.com/projects/334980963080602194    (servomotor clock type)
 6.  https://wokwi.com/projects/334980924249735764     (servomotor 2)
+7.  
+https://wokwi.com/projects/334982095306752595
