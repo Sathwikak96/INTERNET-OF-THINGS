@@ -6,4 +6,4 @@
 
 4.   https://wokwi.com/projects/333804671527289428  (RGB LED)
 
-5.    https://wokwi.com/projects/new/arduino-uno    (servomotor clock type)
+5.    https://wokwi.com/projects/334980774316999252    (servomotor clock type)
