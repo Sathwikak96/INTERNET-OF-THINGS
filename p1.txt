@@ -13,3 +13,4 @@
 9.    https://wokwi.com/projects/335065955278258772    buzzer with pushbutton
 10.   https://wokwi.com/projects/335071500453282387     ultrasonic sensor
 11.   https://wokwi.com/projects/335070683477312084     ultrasonic sensor i did
+12.   https://wokwi.com/projects/335069692992422482     servometer buzzer potentiometre
