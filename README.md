@@ -22,4 +22,5 @@
 14.   https://wokwi.com/projects/336881829987484242      (ESP 32)
 15.   https://wokwi.com/projects/338147082096345683      (DHT22 humidity sensor with temperature)
 16.   https://wokwi.com/projects/338154081559249491      (DHT22+LCD)
-17.   https://wokwi.com/projects/338226711455859284      (2. turn on the LED when pushbutton is pressed)
+17.   https://wokwi.com/projects/338227139367141971      (1. to turn LED on for 1 sec after every 2 sec)
+18.   https://wokwi.com/projects/338226711455859284      (2. turn on the LED when pushbutton is pressed)
