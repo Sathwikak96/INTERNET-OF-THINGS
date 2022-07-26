@@ -24,4 +24,5 @@
 1.   https://wokwi.com/projects/338227139367141971      (1. to turn LED on for 1 sec after every 2 sec)
 2.   https://wokwi.com/projects/338226711455859284      (2. turn on the LED when pushbutton is pressed)
 3.   https://wokwi.com/projects/338147082096345683      (DHT22 humidity sensor with temperature)
+4.   https://wokwi.com/projects/335705347315466835      (servomoter with pushbutton)
 5.   https://wokwi.com/projects/338154081559249491      (DHT22+LCD)
