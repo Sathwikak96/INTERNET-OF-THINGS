@@ -20,3 +20,5 @@
 12.   https://wokwi.com/projects/335616252190917203      (two ultrasonic with two buzzer)
 13.   https://wokwi.com/projects/335701664758497874      (potentiometer with led)
 14.   https://wokwi.com/projects/336881829987484242      (ESP 32)
+15.   https://wokwi.com/projects/338147082096345683      (DHT22 humidity sensor with temperature)
+16.   https://wokwi.com/projects/338154081559249491      (DHT22+LCD)
