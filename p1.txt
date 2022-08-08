@@ -153,4 +153,20 @@ digitalWrite(red, !bitRead(color, 2));
 digitalWrite(green, !bitRead(color, 1));
 digitalWrite(blue, !bitRead(color, 0));
 }
+LDR:-
+const int ldrPin=A0;
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+  pinMode(ldrPin,INPUT);
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  int rawData=analogRead(ldrPin);
+  Serial.println(rawData);
+  delay(1000);
+}
 
