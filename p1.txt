@@ -20,7 +20,8 @@
 13.   https://wokwi.com/projects/335701664758497874      (potentiometer with led)
 14.   https://wokwi.com/projects/336881829987484242      (ESP 32)
 
-DHT11
+DHT11:-
+..................
 
     #include <Adafruit_Sensor.h>
     #include <DHT.h>;
@@ -51,7 +52,8 @@ DHT11
        delay(1000); //Delay 2 sec.
    }
    
-   IR SENSOR
+   IR SENSOR:-
+   ................
 int ir=D7;
 int led=D6;
 void setup() {
@@ -77,7 +79,8 @@ void loop() {
   }
 delay(100);
 }
-ultra sonic
+ultra sonic:-
+.....................
 const int trigPin = 13; //D7
    const int echoPin = 12; //D6
 
