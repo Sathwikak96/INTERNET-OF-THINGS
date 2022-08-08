@@ -116,3 +116,10 @@ const int trigPin = 13; //D7
   long microsecondsToCentimeters(long microseconds) {
     return microseconds / 29 / 2;
    }
+=====================================
+ To: PC-27 (student/DESKTOP-38LJHAQ/192.168.3.27/ADMIN-<e0d8a58b3c1526cc>)
+  at Tue Aug 02 16:45:29 2022
+  (image) ipmsgclip_s_1659438929_0.png
+-------------------------------------
+ 
+
