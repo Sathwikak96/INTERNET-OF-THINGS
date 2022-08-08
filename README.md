@@ -28,36 +28,37 @@
 5.   https://wokwi.com/projects/338154081559249491      (DHT22+LCD)
 
 
-int red = D1;
- int green = D6;
- int blue = D7;
- //GROUND IS CONNECTED TO 3V 
- void setup() {
-   pinMode(red, OUTPUT);
-   pinMode(green, OUTPUT);
-   pinMode(blue, OUTPUT);
+int red = D1;<br>
+ int green = D6;<br>
+ int blue = D7;<br>
+ //GROUND IS CONNECTED TO 3V <br>
+ void setup() {<br>
+   pinMode(red, OUTPUT);<br>
+   pinMode(green, OUTPUT);<br>
+   pinMode(blue, OUTPUT);<br>
 
- }
+ }<br>
 
- void loop() {
-   displayColor(0b100); //RED
-   delay(1000);
-   displayColor(0b010); //GREEN
-   delay(1000);
-   displayColor(0b001); //BLUE
-   delay(1000);
-   displayColor(0b101); //MAGENTA
-   delay(1000);
-   displayColor(0b011); //CYAN
-   delay(1000);
-   displayColor(0b110); //YELLOW
-   delay(1000);
-   displayColor(0b111); //WHITE
-   delay(1000);
- }
+ void loop() {<br>
+   displayColor(0b100); //RED<br>
+   delay(1000);<br>
+   displayColor(0b010); //GREEN<br>
+   delay(1000);<br>
+   displayColor(0b001); //BLUE<br>
+   delay(1000);<br>
+   displayColor(0b101); //MAGENTA<br>
+   delay(1000);<br>
+   displayColor(0b011); //CYAN<br>
+   delay(1000);<br>
+   displayColor(0b110); //YELLOW<br>
+   delay(1000);<br>
+   displayColor(0b111); //WHITE<br>
+   delay(1000);<br>
+ }<br>
 
- void displayColor(byte color) {
-   digitalWrite(red, !bitRead(color, 2));
-   digitalWrite(green, !bitRead(color, 1));
-   digitalWrite(blue, !bitRead(color, 0));
- }
+ void displayColor(byte color) {<br>
+   digitalWrite(red, !bitRead(color, 2));<br>
+   digitalWrite(green, !bitRead(color, 1));<br>
+   digitalWrite(blue, !bitRead(color, 0));<br>
+ }<br>
+![image](https://user-images.githubusercontent.com/97940151/183366725-20c639c8-8abc-4d97-ab91-6a113f22640e.png)<br>
