@@ -26,6 +26,6 @@
 3.   https://wokwi.com/projects/338147082096345683      (DHT22 humidity sensor with temperature)
 4.   https://wokwi.com/projects/335705347315466835      (servomoter with pushbutton)
 5.   https://wokwi.com/projects/338154081559249491      (DHT22+LCD)
-
+6.   https://wokwi.com/projects/340687448227971668      (NTP SERVER)
 LDR:-<br>
 ![image](https://user-images.githubusercontent.com/97940151/183366725-20c639c8-8abc-4d97-ab91-6a113f22640e.png)<br>
