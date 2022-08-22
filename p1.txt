@@ -20,7 +20,7 @@
 13.   https://wokwi.com/projects/335701664758497874      (potentiometer with led)
 14.   https://wokwi.com/projects/336881829987484242      (ESP 32)
 
-**DHT11:-**
+3. **DHT11:-**
 **..................**
 
     #include <Adafruit_Sensor.h>
