@@ -30,3 +30,8 @@
 7.   https://wokwi.com/projects/340852414469898835      (chassing led)
 LDR:-<br>
 ![image](https://user-images.githubusercontent.com/97940151/183366725-20c639c8-8abc-4d97-ab91-6a113f22640e.png)<br>
+
+
+
+ESP32 SOFTWARE PROGRAM:-<br>
+1.   https://wokwi.com/projects/340852517819646547     ( led blink)
