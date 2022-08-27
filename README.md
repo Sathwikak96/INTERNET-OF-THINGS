@@ -41,3 +41,4 @@ ESP32 SOFTWARE PROGRAM:-<br>
 4.   https://wokwi.com/projects/340854854168609362     (LCD )
 6.   https://wokwi.com/projects/340857446725583442     (servomotor with sliding potentiometer)
 5.   https://wokwi.com/projects/340886369600537172 (servomotor with pushbutton)
+7.   https://wokwi.com/projects/340890155914101331 (buzzer with pushbutton)
