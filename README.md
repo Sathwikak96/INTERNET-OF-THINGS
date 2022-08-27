@@ -40,4 +40,4 @@ ESP32 SOFTWARE PROGRAM:-<br>
 3.   https://wokwi.com/projects/340853653389705812     ( RGB COLOR)
 4.   https://wokwi.com/projects/340854854168609362     (LCD )
 6.   https://wokwi.com/projects/340857446725583442     (servomotor with sliding potentiometer)
-5.   https://wokwi.com/projects/340886369600537172
+5.   https://wokwi.com/projects/340886369600537172 (servomotor with pushbutton)
