@@ -44,4 +44,5 @@ ESP32 SOFTWARE PROGRAM:-<br>
 7.   https://wokwi.com/projects/340890155914101331 (buzzer with pushbutton)
 8.   https://wokwi.com/projects/340890489300451922 ( ultrasonic sensor with buzzer)
 9.   https://wokwi.com/projects/335701186493547091 ( potentiometer with LED)
+10.  https://wokwi.com/projects/340892440485429842 (DHT22)
 13.  https://wokwi.com/projects/340852414469898835 (chassing LED)
