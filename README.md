@@ -48,3 +48,6 @@ ESP32 SOFTWARE PROGRAM:-<br>
 11.  https://wokwi.com/projects/340936317213868626 (LDR)
 12.  https://wokwi.com/projects/340936847717827156 (LDR with LED)
 13.  https://wokwi.com/projects/340893919446303316   (chassing LED)
+     https://wokwi.com/projects/341318184250376787
+https://wokwi.com/projects/341319477096350290
+https://wokwi.com/projects/341323644585116242
