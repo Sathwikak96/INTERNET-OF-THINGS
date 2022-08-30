@@ -50,3 +50,4 @@ ESP32 SOFTWARE PROGRAM:-<br>
 13.  https://wokwi.com/projects/340893919446303316   (chassing LED)
 14.  https://wokwi.com/projects/341318184250376787
 15.  https://wokwi.com/projects/341323644585116242
+16.  https://wokwi.com/projects/341406724325900883 (THREE LED WITH SLIDING POTENTIOMETER)
