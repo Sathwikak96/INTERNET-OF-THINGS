@@ -51,3 +51,8 @@ ESP32 SOFTWARE PROGRAM:-<br>
 14.  https://wokwi.com/projects/341318184250376787
 15.  https://wokwi.com/projects/341323644585116242
 16.  https://wokwi.com/projects/341406724325900883 (THREE LED WITH SLIDING POTENTIOMETER)
+17.  https://wokwi.com/projects/342583382435168852 
+18.  https://wokwi.com/projects/296234816685212169
+19.  https://wokwi.com/projects/342583577418924627
+20.  https://wokwi.com/projects/342583627976016468
+21.  https://wokwi.com/projects/342583695340733011
