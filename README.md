@@ -54,3 +54,4 @@ ESP32 SOFTWARE PROGRAM:-<br>
 17.  https://wokwi.com/projects/342585054934860370 ( SEVEN SEGMENT LED)
 18.  https://wokwi.com/projects/342586115326214739 (JOY STICK WITH LED DOT MATRIX)
 19.  https://wokwi.com/projects/342586248476492370 (DHT22)
+20.  https://wokwi.com/projects/342586488356078164  (ULTRASONIC SENSOR WITH LED)
