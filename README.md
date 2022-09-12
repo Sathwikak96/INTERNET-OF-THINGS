@@ -56,3 +56,4 @@ ESP32 SOFTWARE PROGRAM:-<br>
 19.  https://wokwi.com/projects/342586248476492370 (DHT22)
 20.  https://wokwi.com/projects/342586488356078164  (ULTRASONIC SENSOR WITH LED)
 21.  https://wokwi.com/projects/342589681910678099  (SAFE STATE)
+22.  https://wokwi.com/projects/342590451372524116   (LED BAR GRAPH WITH POTENTIOMETER)
