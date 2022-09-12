@@ -52,4 +52,5 @@ ESP32 SOFTWARE PROGRAM:-<br>
 15.  https://wokwi.com/projects/341323644585116242
 16.  https://wokwi.com/projects/341406724325900883 (THREE LED WITH SLIDING POTENTIOMETER)
 17.  https://wokwi.com/projects/342585054934860370 ( SEVEN SEGMENT LED)
-18.  https://wokwi.com/projects/342586115326214739  (JOY STICK WITH LED DOT MATRIX)
+18.  https://wokwi.com/projects/342586115326214739 (JOY STICK WITH LED DOT MATRIX)
+19.  https://wokwi.com/projects/342586248476492370 (DHT22)
